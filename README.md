@@ -7,10 +7,10 @@
 <hr>
 
 <p align="center">
-  <a href="#Tecnologias">Tecnologias</a> |
-  <a href="#Resultado WEB">Resultado WEB</a> |
-  <a href="#Resultado MOBILE">Resultado MOBILE</a> |
-  <a href="#Como executar">Como executar</a> |
+  <a href="#">Tecnologias</a> |
+  <a href="#">Resultado WEB</a> |
+  <a href="#">Resultado MOBILE</a> |
+  <a href="#">Como executar</a> |
   <a href="#Layout">Layout</a> 
 </p
 
