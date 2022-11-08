@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="#-Tecnologias">Tecnologias</a> |
-  <a href="#-web">Resultado WEB</a> |
-  <a href="#-mobile">Resultado MOBILE</a> |
+  <a href="#-Resultadoweb">Resultado WEB</a> |
+  <a href="#-Resultadomobile">Resultado MOBILE</a> |
   <a href="#-Comoexecutar">Como executar</a> |
   <a href="#-Layout">Layout</a> 
 </p
