@@ -8,9 +8,9 @@
 
 <p align="center">
   <a href="#-Tecnologias">Tecnologias</a> |
-  <a href="#-Resultado WEB">Resultado WEB</a> |
-  <a href="#-Resultado MOBILE">Resultado MOBILE</a> |
-  <a href="#-Como executar">Como executar</a> |
+  <a href="#-ResultadoWEB">Resultado WEB</a> |
+  <a href="#-ResultadoMOBILE">Resultado MOBILE</a> |
+  <a href="#-Comoexecutar">Como executar</a> |
   <a href="#-Layout">Layout</a> 
 </p
 
