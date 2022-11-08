@@ -10,7 +10,7 @@
   <a href="#-Tecnologias">Tecnologias</a> |
   <a href="#-Web">Web</a> |
   <a href="#-Mobile">Mobile</a> |
-  <a href="#-Executanto">Executando</a> |
+  <a href="#-Executando">Executando</a> |
   <a href="#-Layout">Layout</a> 
 </p
 
