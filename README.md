@@ -10,7 +10,7 @@
   <a href="#-Tecnologias">Tecnologias</a> |
   <a href="#-Web">Web</a> |
   <a href="#-Mobile">Mobile</a> |
-  <a href="#-Como executar">Como executar</a> |
+  <a href="#-Executanto">Como executar</a> |
   <a href="#-Layout">Layout</a> 
 </p
 
@@ -39,7 +39,7 @@
 Você pode visualizar o layout do projeto através <a href="https://www.figma.com/file/2P6CzNZ2gfxkjay4bVV4Ar/Bol%C3%A3o-da-Copa-(Community)">desse link</a>
 . É necessário ter conta no <a href="https://www.figma.com/files/recent?fuid=1102968563677691331">Figma</a> para acessá-lo.
 
-## ✅ Como executar
+## ✅ Executando
 
 Para executar as aplicações seguir os procedimentos abaixo:
 
