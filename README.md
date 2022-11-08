@@ -10,7 +10,7 @@
   <a href="#-Tecnologias">Tecnologias</a> |
   <a href="#-Web">Web</a> |
   <a href="#-Mobile">Mobile</a> |
-  <a href="#-Comoexecutar">Como executar</a> |
+  <a href="#-Como executar">Como executar</a> |
   <a href="#-Layout">Layout</a> 
 </p
 
