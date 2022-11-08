@@ -14,7 +14,7 @@
   <a href="#-Layout">Layout</a> 
 </p
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias
 + Nextjs
 + React
 + React Native
@@ -29,10 +29,10 @@
 + Prisma
 + SQLite
 
-## 💻 Resultado WEB
+## 💻 Web
 ![NLW-web](https://user-images.githubusercontent.com/99052605/200635087-4a386272-8edc-48d5-af4d-a97ed835072a.png)
 
-## 📱 Resultado MOBILE
+## 📱 Mobile
 ![mobileAll](https://user-images.githubusercontent.com/99052605/200635392-1328c5d9-f2c1-4865-b509-c84c7d63a23f.png)
 
 ## 🔖 Layout
